@@ -1,0 +1,98 @@
+{
+  "pages": {
+    "/_not-found/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/app/_not-found/page-27be82837fcb8fff.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/css/720157ba14c9e0f2.css",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/layout-57aefebea101f879.js"
+    ],
+    "/about/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/app/about/page-7e6f784f3c93ba4d.js"
+    ],
+    "/account/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/account/page-773a3789ab25f9f1.js"
+    ],
+    "/blog/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/blog/page-ddc8ad1c095ca793.js"
+    ],
+    "/checkout/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/checkout/page-5db13cfa9f8ecb37.js"
+    ],
+    "/cart/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/cart/page-2a11116c4cf136f9.js"
+    ],
+    "/contact/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/app/contact/page-6c628af20251a609.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/app/page-81605187efe0bf23.js"
+    ],
+    "/shop/asgaardsofa/cartside/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/9c4e2130-ba7c48519e89f84a.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/shop/asgaardsofa/cartside/page-b29e62249395ff48.js"
+    ],
+    "/shop/asgaardsofa/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/shop/asgaardsofa/page-d3beaaa1201ab8b2.js"
+    ],
+    "/shop/page": [
+      "static/chunks/webpack-a629f7f3a5517537.js",
+      "static/chunks/4bd1b696-80bcaf75e1b4285e.js",
+      "static/chunks/517-e5b89b311a2c1275.js",
+      "static/chunks/main-app-f83dcef9e60cbc59.js",
+      "static/chunks/74-4f7f5078d4454918.js",
+      "static/chunks/app/shop/page-68b7825df9230208.js"
+    ]
+  }
+}
